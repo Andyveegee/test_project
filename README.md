@@ -6,3 +6,9 @@ testing how the whole thing works.
 3. So a bit of a description here:  
 4. no word-wrap  
 
+# Patrick's contribution
+
+* edit 1
+* edit 2
+* edit 3
+
